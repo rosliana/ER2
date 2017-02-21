@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultVariableSet>
   <Variable
     Comment=""
@@ -14,7 +14,8 @@
   <Variable
     Name="ProductName"
     Comment=""
-    OriginalName="ProductName">FictionSoft</Variable>
+    OriginalName="ProductName"
+    EvaluatedDefinition="Enterprise Recon 2.0">Enterprise Recon 2.0</Variable>
   <Variable
     Name="Fax"
     Comment=""
