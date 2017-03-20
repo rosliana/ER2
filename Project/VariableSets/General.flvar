@@ -2,7 +2,8 @@
 <CatapultVariableSet>
   <Variable
     Comment=""
-    Name="CompanyName">My Company Name, LLC</Variable>
+    Name="CompanyName"
+    EvaluatedDefinition="Ground Labs">Ground Labs</Variable>
   <Variable
     Comment=""
     Name="PhoneNumber">858 123 4567</Variable>
@@ -23,13 +24,15 @@
   <Variable
     Name="CityStateZip"
     Comment=""
-    Definition="Some text">La Jolla, CA 92037</Variable>
+    Definition="Some text"
+    EvaluatedDefinition="Singapore">Singapore</Variable>
   <Variable
     Name="UserGuideTitle"
     Comment="">User Guide A</Variable>
   <Variable
     Name="VersionNumber"
-    OriginalName="VersionNumberDot">1.0</Variable>
+    OriginalName="VersionNumberDot"
+    EvaluatedDefinition="2.20">2.20</Variable>
   <Variable
     Name="Year"
     Comment=""
